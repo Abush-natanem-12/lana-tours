@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/lana-tours/static/css/main.a6c7e4d2.css",
-    "main.js": "/lana-tours/static/js/main.0fe4938d.js",
+    "main.css": "/lana-tours/static/css/main.e3be6d57.css",
+    "main.js": "/lana-tours/static/js/main.4f469d47.js",
     "static/media/hikers-mountains.jpg": "/lana-tours/static/media/hikers-mountains.a1bb7c1249be2b4165c6.jpg",
     "static/media/water-landscape-freshness-beauty-forest.jpg": "/lana-tours/static/media/water-landscape-freshness-beauty-forest.811ad855b3b861f36ae0.jpg",
     "static/media/view-lion-animal-its-natural-habitat.jpg": "/lana-tours/static/media/view-lion-animal-its-natural-habitat.ff2b274ebdaf6afe697d.jpg",
     "static/media/pexels-kimsanxw-46102905-28793564.jpg": "/lana-tours/static/media/pexels-kimsanxw-46102905-28793564.432746b57d4fe04add93.jpg",
     "static/media/community.jpg": "/lana-tours/static/media/community.13713138d9f959ff16fc.jpg",
     "index.html": "/lana-tours/index.html",
-    "main.a6c7e4d2.css.map": "/lana-tours/static/css/main.a6c7e4d2.css.map",
-    "main.0fe4938d.js.map": "/lana-tours/static/js/main.0fe4938d.js.map"
+    "main.e3be6d57.css.map": "/lana-tours/static/css/main.e3be6d57.css.map",
+    "main.4f469d47.js.map": "/lana-tours/static/js/main.4f469d47.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6c7e4d2.css",
-    "static/js/main.0fe4938d.js"
+    "static/css/main.e3be6d57.css",
+    "static/js/main.4f469d47.js"
   ]
 }
